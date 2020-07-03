@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.util.LinkedList;
 
 /**
- *类说明：连接池的实现
+ *类说明：数据库连接池的实现
  */
 public class DBPool {
 
@@ -39,6 +39,7 @@ public class DBPool {
             //永不超时
             if(mills<=0){
                 while(pool.isEmpty()){
+                    /*等待其他线程唤醒*/
                     pool.wait();
                 }
                 return pool.removeFirst();
@@ -48,10 +49,11 @@ public class DBPool {
                 /*等待时长*/
                 long remaining = mills;
                 while(pool.isEmpty()&&remaining>0){
-                    pool.wait(remaining);
+                    pool.wait(remaining);  //超时处理
                     /*唤醒一次，重新计算等待时长*/
                     remaining = future-System.currentTimeMillis();
                 }
+                //这里只有一个线程才会进来
                 Connection connection = null;
                 if(!pool.isEmpty()){
                     connection = pool.removeFirst();

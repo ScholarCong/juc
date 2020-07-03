@@ -9,6 +9,10 @@ import java.util.concurrent.RecursiveTask;
  * ForkJoin执行累加
  */
 public class SumArray {
+
+    /**
+     * RecursiveTask 带有返回值的forkjoin的工具类 ，效率可能没有单线程快
+     */
     private static class SumTask extends RecursiveTask<Integer>{
 
         /*阈值*/
@@ -27,8 +31,7 @@ public class SumArray {
         protected Integer compute() {
             /*任务的大小是否合适*/
             if (toIndex - fromIndex < THRESHOLD){
-//                System.out.println(" from index = "+fromIndex
-//                        +" toIndex="+toIndex);
+                System.out.println(" from index = "+fromIndex +" toIndex="+toIndex);
                 int count = 0;
                 for(int i= fromIndex;i<=toIndex;i++){
                 	SleepTools.ms(1);

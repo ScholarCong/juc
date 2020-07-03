@@ -35,8 +35,7 @@ public class DBPoolTest {
         AtomicInteger got;
         AtomicInteger notGot;
 
-        public Worker(int count, AtomicInteger got,
-                               AtomicInteger notGot) {
+        public Worker(int count, AtomicInteger got, AtomicInteger notGot) {
             this.count = count;
             this.got = got;
             this.notGot = notGot;

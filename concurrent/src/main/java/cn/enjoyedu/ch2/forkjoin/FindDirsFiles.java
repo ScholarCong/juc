@@ -11,6 +11,8 @@ import java.util.concurrent.RecursiveAction;
  */
 public class FindDirsFiles extends RecursiveAction {
 
+    //recursiveAction标识没有返回值的forkjoin
+
     private File path;
 
     public FindDirsFiles(File path) {
@@ -47,7 +49,7 @@ public class FindDirsFiles extends RecursiveAction {
         try {
             // 用一个 ForkJoinPool 实例调度总任务
             ForkJoinPool pool = new ForkJoinPool();
-            FindDirsFiles task = new FindDirsFiles(new File("F:/"));
+            FindDirsFiles task = new FindDirsFiles(new File("D:/"));
 
             /*异步提交*/
             pool.execute(task);
@@ -59,12 +61,12 @@ public class FindDirsFiles extends RecursiveAction {
             for(int i=0;i<100;i++){
                 otherWork = otherWork+i;
             }
-            System.out.println("Main Thread done sth......,otherWork="
-                    +otherWork);
-            //task.join();//阻塞方法
+            System.out.println("Main Thread done sth......,otherWork=" + otherWork);
+
+            task.join();//阻塞方法
             System.out.println("Task end");
+
         } catch (Exception e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
     }

@@ -2,7 +2,10 @@ package cn.enjoyedu.ch2.forkjoin.sort;
 
 import cn.enjoyedu.ch2.forkjoin.sum.MakeArray;
 
+import java.lang.reflect.Array;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.Iterator;
 
 /**
  * 类说明：归并排序
@@ -45,7 +48,15 @@ public class MergeSort {
     public static void main(String[] args) {
         System.out.println("============================================");
         long start = System.currentTimeMillis();
-        MergeSort.sort(MakeArray.makeArray());
+        int[] beforeArray = MakeArray.makeArray();
+        for (int i = 0; i < beforeArray.length; i++) {
+            System.out.print(beforeArray[i]+",");
+        }
+        int[] sortedArray = MergeSort.sort(MakeArray.makeArray());
+        System.out.println();
+        for (int i = 0; i < sortedArray.length; i++) {
+            System.out.print(sortedArray[i]+",");
+        }
         System.out.println(" spend time:"+(System.currentTimeMillis()-start)+"ms");
     }
 }
