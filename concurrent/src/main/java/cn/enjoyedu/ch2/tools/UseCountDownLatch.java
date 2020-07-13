@@ -16,8 +16,7 @@ public class UseCountDownLatch {
     private static class InitThread implements Runnable{
 
         public void run() {
-        	System.out.println("Thread_"+Thread.currentThread().getId()
-        			+" ready init work......");
+        	System.out.println("Thread_"+Thread.currentThread().getId() + " ready init work......");
             latch.countDown();
             for(int i =0;i<2;i++) {
             	System.out.println("Thread_"+Thread.currentThread().getId()
@@ -36,8 +35,7 @@ public class UseCountDownLatch {
                 e.printStackTrace();
             }
             for(int i =0;i<3;i++) {
-            	System.out.println("BusiThread_"+Thread.currentThread().getId()
-            			+" do business-----");
+            	System.out.println("BusiThread_"+Thread.currentThread().getId() +" do business-----");
             }
         }
     }
@@ -45,24 +43,31 @@ public class UseCountDownLatch {
     public static void main(String[] args) throws InterruptedException {
         new Thread(new Runnable() {
             public void run() {
+
             	SleepTools.ms(1);
-                System.out.println("Thread_"+Thread.currentThread().getId()
-            			+" ready init work step 1st......");
+                System.out.println("Thread_"+Thread.currentThread().getId() +" ready init work step 1st......");
+
                 latch.countDown();
+
                 System.out.println("begin step 2nd.......");
                 SleepTools.ms(1);
-                System.out.println("Thread_"+Thread.currentThread().getId()
-            			+" ready init work step 2nd......");
+                System.out.println("Thread_"+Thread.currentThread().getId() +" ready init work step 2nd......");
+
                 latch.countDown();
             }
         }).start();
+
         new Thread(new BusiThread()).start();
+
         for(int i=0;i<=3;i++){
             Thread thread = new Thread(new InitThread());
             thread.start();
         }
 
         latch.await();
+        /**
+         * 只要线程中有 latch.await() 的， 只要当前计数器没有扣完
+         */
         System.out.println("Main do ites work........");
     }
 }

@@ -19,7 +19,7 @@ public class TestMyLock {
                 lock.lock();
                 System.out.println(Thread.currentThread().getName());
                 try {
-                    SleepTools.second(1);
+                    SleepTools.second(1);  //sleep不会释放锁
                 } finally {
                     lock.unlock();
                 }

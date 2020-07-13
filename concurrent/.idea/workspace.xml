@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92bb1994-27b9-4fc3-b819-973dd39970c0" name="Default Changelist" comment="" />
+    <list default="true" id="92bb1994-27b9-4fc3-b819-973dd39970c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/enjoyedu/ch2/tools/UseCountDownLatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/enjoyedu/ch2/tools/UseCountDownLatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/enjoyedu/ch4/aqs/TestMyLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/enjoyedu/ch4/aqs/TestMyLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/pool/DBPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/pool/DBPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/pool/DBPoolTest$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/pool/DBPoolTest$Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/threadlocal/UseThreadLocal$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/threadlocal/UseThreadLocal$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/threadlocal/UseThreadLocal$TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/threadlocal/UseThreadLocal$TestThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/threadlocal/UseThreadLocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/threadlocal/UseThreadLocal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/FindDirsFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/FindDirsFiles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sort/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sum/MakeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sum/MakeArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sum/SumArray$SumTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sum/SumArray$SumTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sum/SumArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sum/SumArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/ThreadGroupDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/ThreadGroupDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/JoinAndGet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/JoinAndGet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/AcceptEither.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/AcceptEither.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ApplyToEither.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ApplyToEither.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/Exceptionally.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/Exceptionally.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/Handle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/Handle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/RunAfterBoth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/RunAfterBoth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/RunAfterEither.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/RunAfterEither.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenAccept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenAccept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenAcceptBoth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenAcceptBoth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenApply.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenApply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenCombine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenCombine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenCompose.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenCompose.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/WhenComplete.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/WhenComplete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/lambda/Step03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/lambda/Step03.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +46,9 @@
       <find>setExclusiveO</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -24,12 +58,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1dwbLSCwUhilAhSJzeKLJGZNeDj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -38,18 +74,18 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Application.UseThreadLocal">
-    <configuration name="BusiApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch4.rw.BusiApp" />
+  <component name="RunManager" selected="Application.TestMyLock">
+    <configuration name="FindDirsFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch2.forkjoin.FindDirsFiles" />
       <module name="concurrent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.enjoyedu.ch4.rw.*" />
+          <option name="PATTERN" value="cn.enjoyedu.ch2.forkjoin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch1.vola.NotSafe" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch2.forkjoin.sort.MergeSort" />
       <module name="concurrent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.enjoyedu.ch1.vola.*" />
+          <option name="PATTERN" value="cn.enjoyedu.ch2.forkjoin.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnlyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch1.base.OnlyMain" />
+    <configuration name="SumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch2.forkjoin.sum.SumArray" />
       <module name="concurrent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.enjoyedu.ch1.base.*" />
+          <option name="PATTERN" value="cn.enjoyedu.ch2.forkjoin.sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIntegerSyn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch1.syn.TestIntegerSyn" />
+    <configuration name="TestMyLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch4.aqs.TestMyLock" />
       <module name="concurrent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.enjoyedu.ch1.syn.*" />
+          <option name="PATTERN" value="cn.enjoyedu.ch4.aqs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestMyLock" />
+        <item itemvalue="Application.FindDirsFiles" />
+        <item itemvalue="Application.SumArray" />
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.UseThreadLocal" />
-        <item itemvalue="Application.NotSafe" />
-        <item itemvalue="Application.TestIntegerSyn" />
-        <item itemvalue="Application.OnlyMain" />
-        <item itemvalue="Application.BusiApp" />
       </list>
     </recent_temporary>
   </component>
@@ -137,33 +173,85 @@
       <workItem from="1593482634198" duration="1976000" />
       <workItem from="1593569136157" duration="11497000" />
       <workItem from="1593668565327" duration="1677000" />
+      <workItem from="1593671589139" duration="10537000" />
+      <workItem from="1593744633702" duration="4472000" />
+      <workItem from="1593755273990" duration="5020000" />
+      <workItem from="1594612730119" duration="2464000" />
     </task>
+    <task id="LOCAL-00001" summary="forkjoin学习">
+      <created>1593755366563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593755366563</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="forkjoin学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="forkjoin学习" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="308" key="GridCell.Tab.0.bottom" timestamp="1593601437802">
+    <state x="539" y="107" key="CommitChangelistDialog2" timestamp="1593755364449">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="308" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593601437802" />
-    <state width="1877" height="308" key="GridCell.Tab.0.center" timestamp="1593601437802">
+    <state x="539" y="107" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1593755364449" />
+    <state x="184" y="87" key="DiffContextDialog" timestamp="1593685131600">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="308" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593601437802" />
-    <state width="1877" height="308" key="GridCell.Tab.0.left" timestamp="1593601437802">
+    <state x="184" y="87" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1593685131600" />
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1593769688244">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="308" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593601437802" />
-    <state width="1877" height="308" key="GridCell.Tab.0.right" timestamp="1593601437802">
+    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1593769688244" />
+    <state width="1877" height="334" key="GridCell.Tab.0.bottom" timestamp="1594619518509">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="308" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593601437802" />
-    <state x="461" y="167" key="SettingsEditor" timestamp="1593669697525">
+    <state width="1877" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1594619518509" />
+    <state width="1877" height="334" key="GridCell.Tab.0.center" timestamp="1594619518509">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1593669697525" />
+    <state width="1877" height="334" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1594619518509" />
+    <state width="1877" height="334" key="GridCell.Tab.0.left" timestamp="1594619518509">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1594619518509" />
+    <state width="1877" height="334" key="GridCell.Tab.0.right" timestamp="1594619518509">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1594619518509" />
+    <state width="1877" height="251" key="GridCell.Tab.1.bottom" timestamp="1593686916323">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="251" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593686916323" />
+    <state width="1877" height="251" key="GridCell.Tab.1.center" timestamp="1593686916323">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="251" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593686916323" />
+    <state width="1877" height="251" key="GridCell.Tab.1.left" timestamp="1593686916323">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="251" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593686916323" />
+    <state width="1877" height="251" key="GridCell.Tab.1.right" timestamp="1593686916323">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="251" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593686916323" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1593756440127">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1593756440127" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1593756525416">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1593756525416" />
+    <state x="651" y="316" key="git4idea.merge.GitPullDialog" timestamp="1593755416212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="651" y="316" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1593755416212" />
   </component>
   <component name="masterDetails">
     <states>
