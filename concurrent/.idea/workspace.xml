@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92bb1994-27b9-4fc3-b819-973dd39970c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/enjoyedu/ch2/tools/UseCountDownLatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/enjoyedu/ch2/tools/UseCountDownLatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/enjoyedu/ch4/aqs/TestMyLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/enjoyedu/ch4/aqs/TestMyLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/pool/DBPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/pool/DBPool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/pool/DBPoolTest$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/pool/DBPoolTest$Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/threadlocal/UseThreadLocal$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/threadlocal/UseThreadLocal$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/threadlocal/UseThreadLocal$TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/threadlocal/UseThreadLocal$TestThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/threadlocal/UseThreadLocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch1/threadlocal/UseThreadLocal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/FindDirsFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/FindDirsFiles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sum/MakeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sum/MakeArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sum/SumArray$SumTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sum/SumArray$SumTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sum/SumArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/ch2/forkjoin/sum/SumArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/ThreadGroupDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/ThreadGroupDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/JoinAndGet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/JoinAndGet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/AcceptEither.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/AcceptEither.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ApplyToEither.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ApplyToEither.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/Exceptionally.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/Exceptionally.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/Handle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/Handle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/RunAfterBoth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/RunAfterBoth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/RunAfterEither.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/RunAfterEither.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenAccept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenAccept.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenAcceptBoth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenAcceptBoth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenApply.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenApply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenCombine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenCombine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenCompose.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenCompose.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/ThenRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/WhenComplete.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/cfdemo/flow/WhenComplete.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/lambda/Step03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/enjoyedu/cha/lambda/Step03.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +147,7 @@
       <workItem from="1593671589139" duration="10537000" />
       <workItem from="1593744633702" duration="4472000" />
       <workItem from="1593755273990" duration="5020000" />
-      <workItem from="1594612730119" duration="2464000" />
+      <workItem from="1594612730119" duration="5998000" />
     </task>
     <task id="LOCAL-00001" summary="forkjoin学习">
       <created>1593755366563</created>
@@ -190,6 +161,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="forkjoin学习" />
@@ -208,22 +190,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1593769688244" />
-    <state width="1877" height="334" key="GridCell.Tab.0.bottom" timestamp="1594619518509">
+    <state width="1877" height="334" key="GridCell.Tab.0.bottom" timestamp="1594637751637">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1594619518509" />
-    <state width="1877" height="334" key="GridCell.Tab.0.center" timestamp="1594619518509">
+    <state width="1877" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1594637751637" />
+    <state width="1877" height="334" key="GridCell.Tab.0.center" timestamp="1594637751637">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1594619518509" />
-    <state width="1877" height="334" key="GridCell.Tab.0.left" timestamp="1594619518509">
+    <state width="1877" height="334" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1594637751637" />
+    <state width="1877" height="334" key="GridCell.Tab.0.left" timestamp="1594637751637">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1594619518509" />
-    <state width="1877" height="334" key="GridCell.Tab.0.right" timestamp="1594619518509">
+    <state width="1877" height="334" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1594637751637" />
+    <state width="1877" height="334" key="GridCell.Tab.0.right" timestamp="1594637751637">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1594619518509" />
+    <state width="1877" height="334" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1594637751637" />
     <state width="1877" height="251" key="GridCell.Tab.1.bottom" timestamp="1593686916323">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
